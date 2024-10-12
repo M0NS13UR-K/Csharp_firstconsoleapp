@@ -1,0 +1,14 @@
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/obj/Debug/net8.0/firstproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/obj/Debug/net8.0/firstproject.AssemblyInfoInputs.cache
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/obj/Debug/net8.0/firstproject.AssemblyInfo.cs
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/obj/Debug/net8.0/firstproject.csproj.CoreCompileInputs.cache
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/bin/Debug/net8.0/firstproject
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/bin/Debug/net8.0/firstproject.deps.json
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/bin/Debug/net8.0/firstproject.runtimeconfig.json
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/bin/Debug/net8.0/firstproject.dll
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/bin/Debug/net8.0/firstproject.pdb
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/obj/Debug/net8.0/firstproject.dll
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/obj/Debug/net8.0/refint/firstproject.dll
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/obj/Debug/net8.0/firstproject.pdb
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/obj/Debug/net8.0/firstproject.genruntimeconfig.cache
+/Users/krishna_chitta/gitportfolio/csharp/firstproject/obj/Debug/net8.0/ref/firstproject.dll
